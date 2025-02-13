@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Power_BI_Service": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7011",
+      "launchBrowser": false
+    }
+  }
+}
